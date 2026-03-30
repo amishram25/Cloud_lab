@@ -1,0 +1,23 @@
+# Azure Website Hosting Assignment
+
+## Name:
+Ankur Mishra
+
+## Course:
+Cloud Computing
+
+## Description:
+This project demonstrates hosting a simple HTML website on Azure Virtual Machine using Apache server.
+
+## Live Website:
+http://20.244.3.58/
+
+## Steps:
+1. Created Azure VM
+2. Installed Apache
+3. Opened port 80
+4. Created index.html
+5. Hosted website
+
+## Output:
+Website successfully hosted and accessible via public IP.
