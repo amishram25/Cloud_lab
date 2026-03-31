@@ -21,3 +21,7 @@ http://20.244.3.58/
 
 ## Output:
 Website successfully hosted and accessible via public IP.
+
+Static Website:
+https://ankurweb123.z29.web.core.windows.net/
+This website is hosted using Azure Storage without a VM.
